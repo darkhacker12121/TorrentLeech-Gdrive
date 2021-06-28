@@ -1,0 +1,8 @@
+[Torleech Download]
+type = drive
+client_id = 1056532571921-nuddoai59208sfpgmg8pf3sl4cetn5ks.apps.googleusercontent.com
+client_secret = cX6mOAopHSlQwA-ejYzoIsWP
+scope = drive
+root_folder_id =
+token = {"access_token":"ya29.a0ARrdaM_St_fbot56JsaZQDUMaF8poNDNiYDhWUn3XeZhnjrWQgLMxcckJ7eZ2AC1sB3gOL8OtV1fNHQgX8bBYMxw3ECX1ueFAmVss0oMxV8PQj5yHD3ygb21OA8gXZsKCV9uz-iJHnr-0CyI3pH4ilKOSTDO","token_type":"Bearer","refresh_token":"1//0gf24WgatP2BuCgYIARAAGBASNwF-L9Ir-koEWsn_0daJbKZjFTWL-4OHXqv1QWkH4Z4lGD3CTBnmbQ6IIOVck6HIDqD34njLJPc","expiry":"2021-06-28T04:02:49.184893-07:00"}
+team_drive = 0APbfxFmzEvJdUk9PVA
